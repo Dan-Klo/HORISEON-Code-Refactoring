@@ -7,7 +7,7 @@
         Added comments where appropriate.
 
 
-The deployed site can be found at:      
+The deployed site can be found at:      https://dan-klo.github.io/HORISEON-Code-Refactoring/
 
 The GitHub repository is located at:    https://github.com/Dan-Klo/HORISEON-Code-Refactoring
 
